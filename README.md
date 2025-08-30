@@ -102,3 +102,6 @@ mvn spring-boot:run
 2. create quiz, give response and get score in quiz service
 
    Simple application build to understand concept of microservice.
+
+   \## Use Postman or another API to test the working of the project.
+
